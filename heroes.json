@@ -1,0 +1,21 @@
+{
+    "iron": {
+        "name": "Iron Man",
+        "power": "Armadura con armas tecnologicas"
+    },
+    "thor": {
+        "name": "Thor",
+        "power": "Lanzar rayos y levantar el martillo de Mjolnir"
+    },
+    "spider": {
+        "name": "Spider Man",
+        "power": "Fuerza sobre humana, sentido aragnido, agilidar extrema y trepar por las paredes"
+    }
+}
+
+
+
+
+
+
+
